@@ -1,9 +1,3 @@
-'''
-baseline model:
-    standard intra-atten
-    share parameters by default
-'''
-
 import logging
 import torch
 import torch.nn as nn
